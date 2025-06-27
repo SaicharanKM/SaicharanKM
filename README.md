@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaicharanKM
+- 👋 Hi, I’m @Saicharan
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...react.js
 - 💞️ I’m looking to collaborate on ...open-source projects or interesting web development initiatives.
